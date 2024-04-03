@@ -4,7 +4,6 @@ public class Main {
         int x = 1;
         while (x <= manovardas.length());
 
-        gtkyhkgjnkhgnjhk
 
         {
             System.out.println(x + " " + manovardas);
